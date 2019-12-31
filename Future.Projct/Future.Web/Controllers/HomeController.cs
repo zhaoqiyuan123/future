@@ -20,7 +20,7 @@ namespace Future.Web.Controllers
 
         public IActionResult Index()
         {
-            string aaa = "testGit";
+            string aaac = "testGit";
             return View();
         }
 

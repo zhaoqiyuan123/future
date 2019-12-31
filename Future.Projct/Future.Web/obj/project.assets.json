@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Administrator\\source\\repos\\Future.Projct\\Future.Web\\Future.Web.csproj",
+      "projectUniqueName": "F:\\学习\\future\\Future.Projct\\Future.Web\\Future.Web.csproj",
       "projectName": "Future.Web",
-      "projectPath": "C:\\Users\\Administrator\\source\\repos\\Future.Projct\\Future.Web\\Future.Web.csproj",
+      "projectPath": "F:\\学习\\future\\Future.Projct\\Future.Web\\Future.Web.csproj",
       "packagesPath": "C:\\Users\\Administrator\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Administrator\\source\\repos\\Future.Projct\\Future.Web\\obj\\",
+      "outputPath": "F:\\学习\\future\\Future.Projct\\Future.Web\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

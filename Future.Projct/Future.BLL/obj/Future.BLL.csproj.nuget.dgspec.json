@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Administrator\\source\\repos\\Future.Projct\\Future.BLL\\Future.BLL.csproj": {}
+    "F:\\学习\\future\\Future.Projct\\Future.BLL\\Future.BLL.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Administrator\\source\\repos\\Future.Projct\\Future.BLL\\Future.BLL.csproj": {
+    "F:\\学习\\future\\Future.Projct\\Future.BLL\\Future.BLL.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Administrator\\source\\repos\\Future.Projct\\Future.BLL\\Future.BLL.csproj",
+        "projectUniqueName": "F:\\学习\\future\\Future.Projct\\Future.BLL\\Future.BLL.csproj",
         "projectName": "Future.BLL",
-        "projectPath": "C:\\Users\\Administrator\\source\\repos\\Future.Projct\\Future.BLL\\Future.BLL.csproj",
+        "projectPath": "F:\\学习\\future\\Future.Projct\\Future.BLL\\Future.BLL.csproj",
         "packagesPath": "C:\\Users\\Administrator\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Administrator\\source\\repos\\Future.Projct\\Future.BLL\\obj\\",
+        "outputPath": "F:\\学习\\future\\Future.Projct\\Future.BLL\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

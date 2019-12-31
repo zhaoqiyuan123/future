@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Administrator\\source\\repos\\Future.Projct\\Future.EFCore\\Future.EFCore.csproj": {}
+    "F:\\学习\\future\\Future.Projct\\Future.EFCore\\Future.EFCore.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Administrator\\source\\repos\\Future.Projct\\Future.EFCore\\Future.EFCore.csproj": {
+    "F:\\学习\\future\\Future.Projct\\Future.EFCore\\Future.EFCore.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Administrator\\source\\repos\\Future.Projct\\Future.EFCore\\Future.EFCore.csproj",
+        "projectUniqueName": "F:\\学习\\future\\Future.Projct\\Future.EFCore\\Future.EFCore.csproj",
         "projectName": "Future.EFCore",
-        "projectPath": "C:\\Users\\Administrator\\source\\repos\\Future.Projct\\Future.EFCore\\Future.EFCore.csproj",
+        "projectPath": "F:\\学习\\future\\Future.Projct\\Future.EFCore\\Future.EFCore.csproj",
         "packagesPath": "C:\\Users\\Administrator\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Administrator\\source\\repos\\Future.Projct\\Future.EFCore\\obj\\",
+        "outputPath": "F:\\学习\\future\\Future.Projct\\Future.EFCore\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
