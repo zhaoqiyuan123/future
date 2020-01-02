@@ -2,6 +2,7 @@ using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Threading.Tasks;
+using Future.BLL;
 using Microsoft.AspNetCore.Builder;
 using Microsoft.AspNetCore.Hosting;
 using Microsoft.AspNetCore.HttpsPolicy;
@@ -43,6 +44,7 @@ namespace Future.Web
                 app.UseHsts();
             }
             app.UseHttpsRedirection();
+            app.UseMiddleware<CustomRewriteMiddleware>();
             app.UseStaticFiles();
 
             app.UseRouting();

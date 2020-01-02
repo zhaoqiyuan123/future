@@ -17,7 +17,7 @@ namespace Future.BLL
         public async Task Invoke(HttpContext context)
         {
             var path = context.Request.Path.ToUriComponent().ToLowerInvariant();
-            var thingid = context.Request.Query["thingid"].ToString();
+           // var thingid = context.Request.Query["thingid"].ToString();
             var parm = path.Replace("/", "");
             QueryString qString = new QueryString("?test=" + parm);
             context.Request.QueryString = qString;
