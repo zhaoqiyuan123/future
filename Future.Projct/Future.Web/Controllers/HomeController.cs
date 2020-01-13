@@ -13,6 +13,7 @@ namespace Future.Web.Controllers
     {
         private readonly ILogger<HomeController> _logger;
 
+
         public HomeController(ILogger<HomeController> logger)
         {
             _logger = logger;
@@ -20,8 +21,8 @@ namespace Future.Web.Controllers
 
         public IActionResult Index()
         {
-            string aaac = "testGit";
-            return View();
+           return Redirect("https://www.baidu.com");
+           // return View();
         }
 
         public IActionResult Privacy()
